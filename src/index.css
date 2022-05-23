@@ -278,6 +278,10 @@ Stripe Styles
     width: 12rem;
   }
 }
+.text{
+  text-transform: uppercase;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
 
 @media screen and (min-width: 1200px) {
   .hero-center {

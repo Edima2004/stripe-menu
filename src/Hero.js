@@ -8,7 +8,7 @@ const Hero = () => {
     <section className="hero" onMouseOver={closeSubMenu}>
       <div className="hero-center">
         <article className="hero-info">
-          <h1>payment infrastructure for the internet</h1>
+          <h1 className="text">payment infrastructure for the internet</h1>
           <p>
             
             Millions of companies of all sizes—from startups to Fortune 500s—use
