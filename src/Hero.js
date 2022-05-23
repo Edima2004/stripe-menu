@@ -9,7 +9,7 @@ const Hero = () => {
       <div className="hero-center">
         <article className="hero-info">
           <h1 className="text">payment infrastructure for the internet</h1>
-          <p>
+          <p className="paragraph">
             
             Millions of companies of all sizes—from startups to Fortune 500s—use
             Stripe’s software and APIs to accept payments, send payouts, and
